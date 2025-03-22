@@ -16,31 +16,8 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 The SQL script file for the questions is given below.
 
 # RSVP Movies Question Script
-Download
-About the assignment
-Where do I get the data from?
+Download :
 
-You can get detailed information about the dataset and database creation in the next segment.
-
+https://drive.google.com/drive/folders/1vlh2cfGmhIIlBMvy6-Pr4yMu-MrUn1D-?usp=drive_link
  
-
-Where do I write the code?
-
-The SQL script file given above contains all the tasks you need to perform. You are required to write the code for each task/question below the question itself.
-
- 
-
-How do I submit the assignment?
-
-Once you are done with writing the codes in the question script file, the same script file should be submitted in the 'submission' segment.
-
- 
-
-Some tips before starting the assignment
-
-Go through the data thoroughly before starting with the assignment. It will give you a good sense of what all the columns represent which is a good practice to follow before proceeding with the analysis. You should download the database script and run it in your local system.
-Read through each of the instructions carefully, identify the task to be performed, and only then proceed to write the required code. Don’t perform any incorrect analysis or look for information that isn’t required for the assignment. The solution output should be in the expected format if given in the question.
-Try using appropriate aliases for the variable names. Avoid using names: ABC, abc, etc.
-Always try to write optimized codes. Use appropriate tables and joins as per the questions asked.
-There are some checkpoints given in the question SQL script provided. Keep your eye out for them as they're useful pieces of information you can use to check if the result you have obtained after performing a particular task is correct or not.
  
